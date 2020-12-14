@@ -16,4 +16,4 @@ Project Steps Download [here]
 
 ## For Setting Up MySQL Community Server 
 
-Refer the video [here]
+Refer to my video [here]
